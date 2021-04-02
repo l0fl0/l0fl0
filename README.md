@@ -10,6 +10,19 @@
 
 input a text link like so [FreeCodeCamp](https://www.freecodecamp.org/)
 
-![FreeCodeCamp](https://www.freecodecamp.org/)
+![`](en.wikipedia.org/wiki/FreeCodeCamp#/media/File:FreeCodeCamp_logo.png)
 
-good luck louis !
+- [x] Javascript
+- [ ] HTML & CSS
+- [ ] Git
+- [ ] skill 1
+- [ ] skill 1
+
+
+```
+{
+  "firstName": "Louis",
+  "lastName": "Flores",
+  "age": 23
+}
+```
