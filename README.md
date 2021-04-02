@@ -1,16 +1,8 @@
-# h1
-## h2
-### h6
+### h6 {#custom-id}
 
-**bold**
-*itallics*
-***bold italics***
-~~strikethrough~~
 
 
 input a text link like so [FreeCodeCamp](https://www.freecodecamp.org/)
-
-![`](en.wikipedia.org/wiki/FreeCodeCamp#/media/File:FreeCodeCamp_logo.png)
 
 - [x] Javascript
 - [ ] HTML & CSS
