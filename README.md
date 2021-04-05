@@ -28,7 +28,7 @@ Hi, I'm Louis Flores, an enthusiastic self-taught frontEnd web developer from So
 
 
 <!-- Github stats -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=l0fl0&show_icons=true&theme=vue-dark" alt="l0fl0 github statistics" />
+<p> <img align="left"src="https://github-readme-stats.vercel.app/api?username=l0fl0&show_icons=true&theme=vue-dark" alt="l0fl0 github statistics" />
 <!-- top language statistics -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0fl0&layout=compact&theme=vue-dark&langs_count=8" alt="l0fl0"/> 
+<p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0fl0&layout=compact&theme=vue-dark&langs_count=8" alt="l0fl0"/> 
   
