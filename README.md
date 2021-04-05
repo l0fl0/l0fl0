@@ -1,14 +1,17 @@
-### h6 {#custom-id}
+# Welcome!
 
+Enthusiastic developer eager to contribute to team success through hard work, attention to detail and
+excellent organizational skills. Clear understanding of data structures and OOP and training in Web
+development. Motivated to learn, grow and excel in software development.
 
-
-input a text link like so [FreeCodeCamp](https://www.freecodecamp.org/)
 
 - [x] Javascript
-- [ ] HTML & CSS
-- [ ] Git
-- [ ] skill 1
-- [ ] skill 1
+- [x] HTML5 & CSS
+- [x] JQuery
+- [x] Git & Github
+- [ ] MongoDB
+- [ ] Vue.js
+- [ ] Node.js
 
 
 ```
