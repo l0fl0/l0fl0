@@ -4,7 +4,7 @@
 <img align="" alt="Louis Flores | LinkedIn" width="20px" src="" />
 </a>
 <a href="https://discord.gg/fEjGkTrnss">
-<img align="" alt="Louis Flores | Discord" width="20px" src="" />
+<img align="" alt="Louis Flores | Discord" width="20px" src="https://raw.githubusercontent.com/l0fl0/l0fl0/main/assets/Discord-Logo-Color.svg" />
 </a>
 
 <br>
