@@ -1,10 +1,10 @@
 # Welcome! :wave:
 
 <a href="https://www.linkedin.com/in/floreslouis/">
-<img align="" alt="Louis Flores | LinkedIn" width="20px" src="" />
+<img margin="0 5px" alt="Louis Flores | LinkedIn" width="26px" src="assets/LI-In-Bug.png" />
 </a>
 <a href="https://discord.gg/fEjGkTrnss">
-<img align="" alt="Louis Flores | Discord" width="20px" src="https://raw.githubusercontent.com/l0fl0/l0fl0/main/assets/Discord-Logo-Color.svg" />
+<img margin="0 5px" alt="Louis Flores | Discord" width="26px" src="assets/Discord-Logo-Color.svg" />
 </a>
 
 <br>
