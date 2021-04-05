@@ -12,6 +12,7 @@ development. Motivated to learn, grow and excel in software development.
 - [ ] MongoDB
 - [ ] Vue.js
 - [ ] Node.js
+- [ ] Express.js
 
 
 ```
