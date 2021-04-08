@@ -8,6 +8,7 @@
 </a>
 <br/>
 Hi, I'm Louis Flores, an enthusiastic self-taught frontEnd web developer from South Florida, USA.
+<br/>
 <img align="right" alt="GIF" src="assets/we-have-technology.gif" width="500" height="320" />
 
 #### Skills & Tools :computer: :hammer:
